@@ -21,4 +21,14 @@ This is a fully interactive and validated “Contact Us” form built with React
 
 ## 📁 Project Structure
 
+## 🚀 How to Run
+
+1. **Clone the repo** or [download this ZIP](#)
+2. Open terminal inside the folder
+3. Run the following commands:
+
+```bash
+npm install
+npm run dev
+
 # contact-form-project
